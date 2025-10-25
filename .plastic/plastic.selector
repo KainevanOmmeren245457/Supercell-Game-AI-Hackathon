@@ -1,0 +1,4 @@
+repository "My project/Supercell Game AI Hackathon@9072319801310@cloud"
+  path "/"
+    br "/main"
+    co "/main"
